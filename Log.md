@@ -1,6 +1,6 @@
 # My-100-days-of-code
 
-##**Log**
+### **Log**
 
 
 **Day 1:** June 9, 2018
