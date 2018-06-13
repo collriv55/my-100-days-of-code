@@ -1,7 +1,8 @@
-# My-100-days-of-code
+## My 100 Days of Code
 
 ### **Log**
 
+<hr>
 
 **Day 1:** June 9, 2018
 
@@ -11,7 +12,7 @@
 
 **Link to work done (screenshot):** [Day 1](https://drive.google.com/file/d/1niuqQ6_6MrJPm0OxvCC1xeqHx450Y6ko/view?usp=sharing)
 
-==================
+<hr>
 
 **Day 2:** June 10, 2018
 
@@ -21,7 +22,7 @@
 
 **Link to work done (screenshot):** [Day 2](https://drive.google.com/file/d/1U5-gsCL8m1AWpVqzQDvzb0PQVOaC-Fhl/view?usp=sharing)
 
-=====================
+<hr>
 
 **Day 3:** June 11, 2018
 
@@ -31,7 +32,7 @@
 
 **Link to work done(screenshot):** [Day 3](https://drive.google.com/file/d/1RFwzOVsz6-8Ghm3GN8y_Sb_YG2Jz6uXU/view?usp=sharing)
 
-=====================
+<hr>
 
 **Day 4:** June 12, 2018
 
@@ -41,4 +42,3 @@
 
 **Link to work done(screenshot):** [Day 4](https://drive.google.com/file/d/1NN45ytSe9Vv1d3KSs7shBE0kQcIgX9sW/view?usp=sharing)
 
-=====================
