@@ -1,6 +1,7 @@
 ## My 100 Days of Code
-
 ### **Log**
+<br>
+
 
 <hr>
 
