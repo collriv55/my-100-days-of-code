@@ -1,9 +1,4 @@
-## My 100 Days of Code
-### **Log**
-<br>
-
-
-<hr>
+## My 100 Days of Code - Log
 
 **Day 1:** June 9, 2018
 
