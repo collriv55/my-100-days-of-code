@@ -15,7 +15,7 @@
 
 **Today's Progress:** 2nd item in frecodecamp.org's "Responsive Web Design Certification (300 hours)" - Basic CSS (43 exercises, 2+ hours aprox.).
 
-**Thoughts:** I'll go through some or most of these tutorials, just to refresh what I've done in the last years. Somewhere during the 100 days I'll reroute my efforts to a more specific project. 
+**Thoughts:** I'll later revisit some or most of these tutorials, just to refresh what I've done in the last years. Somewhere during the 100 days I'll reroute my efforts to a more specific project. 
 
 **Link to work done (screenshot):** [Day 2](https://drive.google.com/file/d/1U5-gsCL8m1AWpVqzQDvzb0PQVOaC-Fhl/view?usp=sharing)
 
