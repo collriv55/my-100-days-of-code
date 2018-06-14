@@ -1,6 +1,6 @@
 ## My 100 Days of Code - Log
-
 <br>
+
 **Day 1:** June 9, 2018
 
 **Today's Progress:** Went through the whole basic HTML and HTML5 tutorial in frecodecamp.org's first 300 hours Certification (for Responsive Web Design): . Twenty seven (27) coding exercises. Did more than 1 hour on these.
