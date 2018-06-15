@@ -4,7 +4,7 @@
 
 **Day 1:** June 9, 2018
 
-**Today's Progress:** Went through the whole basic HTML and HTML5 tutorial in frecodecamp.org's first 300 hours Certification (for Responsive Web Design): . Twenty seven (27) coding exercises. Did more than 1 hour on these.
+**Today's Progress:** Went through the whole basic HTML and HTML5 tutorial in freecodecamp.org's first 300 hours Certification (for Responsive Web Design): . Twenty seven (27) coding exercises. Did more than 1 hour on these.
 
 **Thoughts:** Done many of those through the years, but never wrong to refresh it. It will get harder later on. Most of the work on all challenges and projects will be done on a brand new Lenovo Chromebook 500e (shipped with an EMR pen =p ).
 
@@ -14,7 +14,7 @@
 
 **Day 2:** June 10, 2018
 
-**Today's Progress:** 2nd item in frecodecamp.org's "Responsive Web Design Certification (300 hours)" - Basic CSS (43 exercises, 2+ hours aprox.).
+**Today's Progress:** 2nd item in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Basic CSS (43 exercises, 2+ hours aprox.).
 
 **Thoughts:** I'll later revisit some or most of these tutorials, just to refresh what I've done in the last years. Somewhere during the 100 days I'll reroute my efforts to a more specific project. 
 
@@ -24,7 +24,7 @@
 
 **Day 3:** June 11, 2018
 
-**Today's Progress:** 3rd item in frecodecamp.org's "Responsive Web Design Certification (300 hours)"  - Applied Visual Design (49 exercises, 3+ hours aprox.)
+**Today's Progress:** 3rd item in freecodecamp.org's "Responsive Web Design Certification (300 hours)"  - Applied Visual Design (49 exercises, 3+ hours aprox.)
 
 **Thoughts:** Topics are heating up in difficulty. This whole section deserves repeating it several times, specially the second half of it, related to transitions and animations with CSS. 
 
@@ -34,7 +34,7 @@
 
 **Day 4:** June 12, 2018
 
-**Today's Progress:** 4th item in frecodecamp.org's "Responsive Web Design Certification (300 hours)"  - Applied Accesibility (22 exercises, 1.5 hours aprox.).
+**Today's Progress:** 4th item in freecodecamp.org's "Responsive Web Design Certification (300 hours)"  - Applied Accesibility (22 exercises, 1.5 hours aprox.).
 
 **Thoughts:** Tons of new atributes and ways to add better accesibility. Definitely, although a short tutorial, is a mega important one. 
 
@@ -44,7 +44,7 @@
 
 **Day 5:** June 13, 2018
 
-**Today's Progress:** 5th and 6th items in frecodecamp.org's "Responsive Web Design Certification (300 hours)"  - Responsive Web Design Principles (4 exercises,  30 mins aprox.). And, CSS Flexbox (17 challenges, 1.0 hour).
+**Today's Progress:** 5th and 6th items in freecodecamp.org's "Responsive Web Design Certification (300 hours)"  - Responsive Web Design Principles (4 exercises,  30 mins aprox.). And, CSS Flexbox (17 challenges, 1.0 hour).
 
 **Thoughts:** Flexbox is a totally new topic for me. Powerfull stuff. Tomorrow is CSS Grid (heard and read so much about it). And then my first project @freecodecamp.org!. Seems perfect timing with the weekend. 
 
@@ -58,7 +58,7 @@ Someone said coding modifes your way of thinking and living through your day(s).
 
 **Day 6:** June 14, 2018
 
-**Today's Progress:** 7th item in frecodecamp.org's "Responsive Web Design Certification (300 hours)"  - CSS Grid (XX challenges, 0.0 hour).
+**Today's Progress:** 7th item in freecodecamp.org's "Responsive Web Design Certification (300 hours)"  - CSS Grid (XX challenges, 0.0 hour).
 
 **Thoughts:** This is a totally new subject to me. Almost got stuck in the last 2 exercises. But they were easier than what my mind was thinking they were. Fortunately I'm familiar with CSS. However, it has acquired so many aditional features, properties, etc. CSS has surely become a specialization in web development.
 
