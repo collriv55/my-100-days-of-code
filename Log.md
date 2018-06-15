@@ -1,4 +1,5 @@
 ## My 100 Days of Code - Log
+(I want to learn: Python + Django; Node.js, GraphQL)
 <br>
 
 **Day 1:** June 9, 2018
@@ -52,4 +53,16 @@ I need to learn more about using Github. Fantastic resource. I will also start P
 Someone said coding modifes your way of thinking and living through your day(s). It's true. I feel more focused and organized. I'm starting to think we are all -more complex- coded machines, coding less complex ones, which may someday emulate or outperform us all... 
 
 **Link to work done(screenshot):** [Day 5](https://drive.google.com/file/d/1XJ8llOzK7KXyaku4rzqAeAKkBaEzxbFm/view?usp=sharing)
+
+<hr>
+
+**Day 6:** June 14, 2018
+
+**Today's Progress:** 7th item in frecodecamp.org's "Responsive Web Design Certification (300 hours)"  - CSS Grid (XX challenges, 0.0 hour).
+
+**Thoughts:** This is a totally new subject to me. Almost got stuck in the last 2 exercises. But they were easier than what my mind was thinking they were. Fortunately I'm familiar with CSS. However, it has acquired so many aditional features, properties, etc. CSS has surely become a specialization in web development.
+
+Tomorrow will start my first project!
+
+**Link to work done(screenshot):** [Day 6](https://drive.google.com/file/d/10iJJsIVS9fjQMwxuqZMB8wGp2GSiGMvV/view?usp=sharing)
 
