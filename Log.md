@@ -8,7 +8,7 @@
 
 **Thoughts:** Done many of those through the years, but never wrong to refresh it. It will get harder later on. Most of the work on all challenges and projects will be done on a brand new Lenovo Chromebook 500e (shipped with an EMR pen =p ).
 
-**Link to work done (screenshot):** [Day 1](https://drive.google.com/file/d/1niuqQ6_6MrJPm0OxvCC1xeqHx450Y6ko/view?usp=sharing)
+**Link to work done  (screenshot):** [Day 1](https://drive.google.com/file/d/1niuqQ6_6MrJPm0OxvCC1xeqHx450Y6ko/view?usp=sharing)
 
 <hr>
 
@@ -18,7 +18,7 @@
 
 **Thoughts:** I'll later revisit some or most of these tutorials, just to refresh what I've done in the last years. Somewhere during the 100 days I'll reroute my efforts to a more specific project. 
 
-**Link to work done (screenshot):** [Day 2](https://drive.google.com/file/d/1U5-gsCL8m1AWpVqzQDvzb0PQVOaC-Fhl/view?usp=sharing)
+**Link to work done  (screenshot):** [Day 2](https://drive.google.com/file/d/1U5-gsCL8m1AWpVqzQDvzb0PQVOaC-Fhl/view?usp=sharing)
 
 <hr>
 
@@ -28,7 +28,7 @@
 
 **Thoughts:** Topics are heating up in difficulty. This whole section deserves repeating it several times, specially the second half of it, related to transitions and animations with CSS. 
 
-**Link to work done(screenshot):** [Day 3](https://drive.google.com/file/d/1RFwzOVsz6-8Ghm3GN8y_Sb_YG2Jz6uXU/view?usp=sharing)
+**Link to work done (screenshot):** [Day 3](https://drive.google.com/file/d/1RFwzOVsz6-8Ghm3GN8y_Sb_YG2Jz6uXU/view?usp=sharing)
 
 <hr>
 
@@ -38,7 +38,7 @@
 
 **Thoughts:** Tons of new atributes and ways to add better accesibility. Definitely, although a short tutorial, is a mega important one. 
 
-**Link to work done(screenshot):** [Day 4](https://drive.google.com/file/d/1NN45ytSe9Vv1d3KSs7shBE0kQcIgX9sW/view?usp=sharing)
+**Link to work done (screenshot):** [Day 4](https://drive.google.com/file/d/1NN45ytSe9Vv1d3KSs7shBE0kQcIgX9sW/view?usp=sharing)
 
 <hr>
 
@@ -52,7 +52,7 @@ I need to learn more about using Github. Fantastic resource. I will also start P
 
 Someone said coding modifes your way of thinking and living through your day(s). It's true. I feel more focused and organized. I'm starting to think we are all -more complex- coded machines, coding less complex ones, which may someday emulate or outperform us all... 
 
-**Link to work done(screenshot):** [Day 5](https://drive.google.com/file/d/1XJ8llOzK7KXyaku4rzqAeAKkBaEzxbFm/view?usp=sharing)
+**Link to work done  (screenshot):** [Day 5](https://drive.google.com/file/d/1XJ8llOzK7KXyaku4rzqAeAKkBaEzxbFm/view?usp=sharing)
 
 <hr>
 
@@ -64,7 +64,7 @@ Someone said coding modifes your way of thinking and living through your day(s).
 
 Tomorrow will start my first project!
 
-**Link to work done(screenshot):** [Day 6](https://drive.google.com/file/d/10iJJsIVS9fjQMwxuqZMB8wGp2GSiGMvV/view?usp=sharing)
+**Link to work done  (screenshot):** [Day 6](https://drive.google.com/file/d/10iJJsIVS9fjQMwxuqZMB8wGp2GSiGMvV/view?usp=sharing)
 
 <hr>
 
@@ -74,5 +74,5 @@ Tomorrow will start my first project!
 
 **Thoughts:** Did most of the HTML and a bit of the CSS. Tomorrow will go into the styling overall, including the responsive elements.
 
-**Link to work done(screenshot):** (Coming soon)
+**Link to work done  (screenshot):** (Coming soon)
 
