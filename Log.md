@@ -58,11 +58,21 @@ Someone said coding modifes your way of thinking and living through your day(s).
 
 **Day 6:** June 14, 2018
 
-**Today's Progress:** 7th item in freecodecamp.org's "Responsive Web Design Certification (300 hours)"  - CSS Grid (XX challenges, 0.0 hour).
+**Today's Progress:** 7th item in freecodecamp.org's "Responsive Web Design Certification (300 hours)"  - CSS Grid (22 challenges, 1 hour).
 
 **Thoughts:** This is a totally new subject to me. Almost got stuck in the last 2 exercises. But they were easier than what my mind was thinking they were. Fortunately I'm familiar with CSS. However, it has acquired so many aditional features, properties, etc. CSS has surely become a specialization in web development.
 
 Tomorrow will start my first project!
 
 **Link to work done(screenshot):** [Day 6](https://drive.google.com/file/d/10iJJsIVS9fjQMwxuqZMB8wGp2GSiGMvV/view?usp=sharing)
+
+<hr>
+
+**Day 7:** June 15, 2018
+
+**Today's Progress:** 1rst Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (1.5 hours).
+
+**Thoughts:** Did most of the HTML and a bit of the CSS. Tomorrow will go into the styling overall, including the responsive elements.
+
+**Link to work done(screenshot):** (Coming soon)
 
