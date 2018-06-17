@@ -76,3 +76,13 @@ Tomorrow will start my first project!
 
 **Link to work done  (screenshot):** (Coming soon)
 
+<hr>
+
+**Day 8:** June 16, 2018
+
+**Today's Progress:** 1rst Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (X hours).
+
+**Thoughts:** . Finished the requirements and passed the tests. But it's all too basic, no thoughtful design. Not apt for presentation. So I'll give it another day or 2 to have it better presented. 
+
+**Link to work done  (screenshot):** [Day 8](https://codepen.io/luiscoll55/pen/qKPJZj)
+
