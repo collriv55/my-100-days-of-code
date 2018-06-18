@@ -70,7 +70,7 @@ Tomorrow will start my first project!
 
 **Day 7:** June 15, 2018
 
-**Today's Progress:** 1rst Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (1.5 hours).
+**Today's Progress:** 1st Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (1.5 hours).
 
 **Thoughts:** Did most of the HTML and a bit of the CSS. Tomorrow will go into the styling overall, including the responsive elements.
 
@@ -80,9 +80,20 @@ Tomorrow will start my first project!
 
 **Day 8:** June 16, 2018
 
-**Today's Progress:** 1rst Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (X hours).
+**Today's Progress:** 1st Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (X hours).
 
 **Thoughts:** . Finished the requirements and passed the tests. But it's all too basic, no thoughtful design. Not apt for presentation. So I'll give it another day or 2 to have it better presented. 
 
 **Link to work done  (screenshot):** [Day 8](https://codepen.io/luiscoll55/pen/qKPJZj)
+
+<hr>
+
+**Day 9:** June 17, 2018
+
+**Today's Progress:** Still on 1st Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (0 hours).
+
+**Thoughts:** . Took the time to day to study some options. I'm surprised that the Google Store doesn't have a good SFTP client with local/remote views. Neither does it have a decent HTML editor. Surely will get some when Chrome renders Linux apps.
+
+**Link to work done  (screenshot):** (None)
+
 
