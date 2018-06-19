@@ -1,5 +1,5 @@
 ## My 100 Days of Code - Log
-(I want to learn: Python + Django; Node.js, GraphQL)
+(I want to learn: Python + Django/Flask; Javascript/Node.js, GraphQL)
 <br>
 
 **Day 1:** June 9, 2018
@@ -93,6 +93,16 @@ Tomorrow will start my first project!
 **Today's Progress:** Still on 1st Project in freecodecamp.org's "Responsive Web Design Certification (300 hours)" - Tribute Page (0 hours).
 
 **Thoughts:**  Took the time to day to study some options. I'm surprised that the Google Store doesn't have a good SFTP client with local/remote views. Neither does it have a decent HTML editor. Surely will get some when Chrome renders Linux apps.
+
+**Link to work done  (screenshot):** (None)
+
+<hr>
+
+**Day 10:** June 18, 2018
+
+**Today's Progress:** "If you're a developer you should have learned git yesterday"... Decided to start learning Git before getting any further. 1.5 hours).
+
+**Thoughts:**  Googled "Learn Git" and went to Codeacademy.com as my first choice. However, at 25%, during the "git checkout" lesson, the CLI didn't take any text input. Instead, the text field acted like I wsa trying to find a string on the text/code shown. Tried with Firefox and the same thing happened. Tried to report a bug but neither taping on the screen nor click on that option with a mouse would result in anything. So, seems I can't get any further and can't report the bug. Will seek other options for the next days.
 
 **Link to work done  (screenshot):** (None)
 
