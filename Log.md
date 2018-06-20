@@ -107,3 +107,14 @@ Tomorrow will start my first project!
 **Link to work done  (screenshot):** (None)
 
 
+<hr>
+
+**Day 11:** June 19, 2018
+
+**Today's Progress:** Went back to my first project in freedocecamp.org to fix some things that left me searching.
+
+**Thoughts:**  It's not hard to do and pass the projects (so far). But each project ends up asking more from you, in terms of presentation.
+
+**Link to work done  (screenshot):** [Tribute page in Codepen](https://codepen.io/luiscoll55/pen/qKPJZj)
+
+
