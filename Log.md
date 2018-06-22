@@ -129,9 +129,9 @@ Tomorrow will start my first project!
 
 <hr>
 
-**Day 1:** June 2, 2018
+**Day 13:** June 21, 2018
 
-**Today's Progress:** 2nd Project @ freecodecamp.org - Build a Form.
+**Today's Progress:** 2nd and 3rd Projects @ freecodecamp.org - "Build a Form" and "Build a Landing Page".
 
 **Thoughts:**  Attacked the form again and finally found -after visiting the forum again- what was generating the error when trying to pass the test. There was nothing wrong with the code. The User Story is a bit confusing on what it's asking. It asked for the "name" of the radio buttons. But what was really missing was the "value" atribute, which I had included in another fieldset but not in one of them. Sheesh...
 
