@@ -117,4 +117,25 @@ Tomorrow will start my first project!
 
 **Link to work done  (screenshot):** [Tribute page in Codepen](https://codepen.io/luiscoll55/pen/qKPJZj)
 
+<hr>
+
+**Day 12:** June 20, 2018
+
+**Today's Progress:** 2nd Project @ freecodecamp.org - Build a Form.
+
+**Thoughts:**  What should have been an easy ride, became a dead end on User Story #13. Searched the forum but didn't find anyone with an issue with this. Will continue tomorrow. Long day today.
+
+**Link to work done  (screenshot):** [Build a Form](https://codepen.io/luiscoll55/pen/MXQoJK)
+
+<hr>
+
+**Day 1:** June 2, 2018
+
+**Today's Progress:** 2nd Project @ freecodecamp.org - Build a Form.
+
+**Thoughts:**  Attacked the form again and finally found -after visiting the forum again- what was generating the error when trying to pass the test. There was nothing wrong with the code. The User Story is a bit confusing on what it's asking. It asked for the "name" of the radio buttons. But what was really missing was the "value" atribute, which I had included in another fieldset but not in one of them. Sheesh...
+
+**Link to work done  (screenshot):** [Build a Form](https://codepen.io/luiscoll55/pen/MXQoJK)
+
+
 
