@@ -145,7 +145,43 @@ Tomorrow will start my first project!
 
 **Thoughts:**  Went over the landing page. But not too much progress neither time, too tired after driving for 10 hours today.
 
-**Link to work done:** [Build a Form](https://codepen.io/luiscoll55/pen/MXQoJK)
+**Link to work done:** [Build a Product Landing Page](https://codepen.io/luiscoll55/pen/qKYrLQ)
+
+<hr>
+
+**Day 15:** June 23, 2018
+
+**Today's Progress:** 3rd Project @ freecodecamp.org - "Build a Landing Page".
+
+**Thoughts:**  Several errors when ran the tests. Will continue tomorrow.
+
+**Link to work done:** [Build a Product Landing Page](https://codepen.io/luiscoll55/pen/qKYrLQ)
+
+<hr>
+
+**Day 16:** June 24, 2018
+
+**Today's Progress:** 3rd Project @ freecodecamp.org - "Build a Landing Page".
+
+**Thoughts:**  Fixed all errors. But not without some degree of frustration. I think some test weren't well made. I can unederstand that some questions should move the student to a research. But sometimes seems that the User Story is mislleading on purpose, or just wasn't well reviewed.
+
+**Link to work done:** [Build a Product Landing Page](https://codepen.io/luiscoll55/pen/qKYrLQ)
+
+<hr>
+
+**Day 17:** June 25, 2018
+
+**Today's Progress:** 4th and 5th Projects @ freecodecamp.org - "Build a Technical Documentation Page" and "Build a Personal Portfolio Webpage"
+
+**Thoughts:**  Took some extra time today for this. Started the 4th yesterday and continued today. Again, several errors. Most were fixed soon enough, but had to search the forum for answers on 2 items. Finished the project though. 
+
+I haven't been styling because otherwise it would take so much time and my curiosity over new topics is killing me. I do want to get the certification to motivate myself further, hence I've been concentrating only on the code. Anyway, all these projects are great to caom back and practice more and definitely do styling.
+
+Also, started the 5th project this afternoon.
+
+(Edit: Finished the 5th Project. Was rather an easier one. No sure how they grant the certification. I hope they don't get picky about by lack of styling the projects.)
+
+**Link to work done:** [Build a Technical Documentation Page](https://codepen.io/luiscoll55/pen/WyKvgj) and [Build a Personal Portfolio Webpage](https://codepen.io/luiscoll55/pen/XYBvrW)
 
 
 
