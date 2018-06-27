@@ -179,9 +179,21 @@ I haven't been styling because otherwise it would take so much time and my curio
 
 Also, started the 5th project this afternoon.
 
-(Edit: Finished the 5th Project. Was rather an easier one. No sure how they grant the certification. I hope they don't get picky about by lack of styling the projects.)
+(Edit: Finished the 5th Project. Was rather an easier one. Not sure how they grant the certification. I hope they don't get picky about by lack of styling the projects.)
 
 **Link to work done:** [Build a Technical Documentation Page](https://codepen.io/luiscoll55/pen/WyKvgj) and [Build a Personal Portfolio Webpage](https://codepen.io/luiscoll55/pen/XYBvrW)
+
+<hr>
+
+**Day 18:** June 26, 2018
+
+**Today's Progress:** Revisited 1st Project @ freecodecamp.org - "Build a Tribute Page"
+
+**Thoughts:** Next tutorials are the JavaScripts ones. I decided to go back to all Responsive Web Design projects and work more on them, before I dip myself into JS, which to me will be like learning russian from scratch. I'm not totally unfamiliar with JS. But never worked on it. The most I had done is take a free script and apply it to a site as per the instructions provided. 
+
+JS will be great...
+
+**Link to work done:** [Build a Tribute Page](https://codepen.io/luiscoll55/pen/qKPJZj) 
 
 
 
