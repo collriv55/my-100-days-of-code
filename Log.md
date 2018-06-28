@@ -195,6 +195,19 @@ JS will be great...
 
 **Link to work done:** [Build a Tribute Page](https://codepen.io/luiscoll55/pen/qKPJZj) 
 
+<hr>
+
+**Day 19:** June 28, 2018
+
+**Today's Progress:** Revisited 1st, 2nd ,3rd and 4th Projects @ freecodecamp.org (around 4 hours)
+
+**Thoughts:** Need a day off after 18 days in a row. Went back to the initial projects to work more on content and styles (CSSs). Ran tests again, just in case. All went well. 
+
+Also started some CSS at Sololearn. Nice web app for learning.
+
+**Link to work done:** None today.
+
+
 
 
 
