@@ -205,6 +205,18 @@ JS will be great...
 
 Also started some CSS at Sololearn. Nice web app for learning.
 
+Edit: Was too curious about JS @freecodecamp.org. So started the first 4-5 lessons.
+
+**Link to work done:** None today.
+
+<hr>
+
+**Day 20:** June 29, 2018
+
+**Today's Progress:** Continued the Javascript tutorial @freecodecamp.org
+
+**Thoughts:** Started JS yesterday and continued today. Not sure I like it, honestly. My first impressions is that is kind of a capricious language. But at this level I can't really have a sound opinion. Nonetheless, it hints me as the reasons why Python was born. 
+
 **Link to work done:** None today.
 
 
