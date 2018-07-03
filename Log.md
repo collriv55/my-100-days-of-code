@@ -211,11 +211,33 @@ Edit: Was too curious about JS @freecodecamp.org. So started the first 4-5 lesso
 
 <hr>
 
-**Day 20:** June 29, 2018
+**Days 20:** June 29, 2018
 
 **Today's Progress:** Continued the Javascript tutorial @freecodecamp.org
 
 **Thoughts:** Started JS yesterday and continued today. Not sure I like it, honestly. My first impressions is that is kind of a capricious language. But at this level I can't really have a sound opinion. Nonetheless, it hints me as the reasons why Python was born. 
+
+**Link to work done:** None today.
+
+<hr>
+
+**Days 21:** June 30, 2018
+
+**Today's Progress:** Continued the Javascript and Python tutorial @freecodecamp.org
+
+**Thoughts:** More Python than JS today.  Didn't work much, but was more than 2 hours. 
+
+**Link to work done:** None today.
+
+<hr>
+
+**Days 22:** July 2, 2018
+
+**Today's Progress:** Continued the Python tutorial @freecodecamp.org
+
+**Thoughts:** Kept with Python. I'm liking it. Went throught the "while", if/else, break, continue, etc.
+
+Also, I've been searching for weeks for a mid-range DSLR camera. After reading dozens of reviews, ended up buying a Pentax K-3 II, with a couple of lenses ranging from standard (50mm) to wide-angle to a zoom/telephoto. My wish was a full-frame but can't go into that kind of expense. Got a 24MP ASP-C for around 1/2 the price.
 
 **Link to work done:** None today.
 
