@@ -239,7 +239,7 @@ Edit: Was too curious about JS @freecodecamp.org. So started the first 4-5 lesso
 
 Also, I've been searching for weeks for a mid-range DSLR camera. After reading dozens of reviews, ended up buying a Pentax K-3 II, with a couple of lenses ranging from standard (50mm) to wide-angle to a zoom/telephoto. My wish was a full-frame but can't go into that kind of expense. Got a 24MP ASP-C for around 1/2 the price.
 
-**Link to work done:** None today.
+**Link to work done:** None.
 
 <hr>
 
@@ -251,7 +251,17 @@ Also, I've been searching for weeks for a mid-range DSLR camera. After reading d
 
 In the quizzes @Sololearn would be great if there's an explanation of why any given answer is correct. This is not necesarily obvious in some cases.
 
-**Link to work done:** None today.
+**Link to work done:** None.
+
+<hr>
+
+**Days 24:** July 4, 2018
+
+**Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
+
+**Thoughts:** Interesting... I went back to the basic 5-6 challenges on the JS tutorial and everything after went super smooth afterwards. All challenges that followed that last one (previously made), felt easier. Not sure why. I think that the teacher in this case left a good example of what he/she was asking. This is important. Some of the challenges were passed in the first attempt.
+
+**Link to work done:** None.
 
 
 
