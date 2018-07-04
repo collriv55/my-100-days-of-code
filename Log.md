@@ -241,6 +241,18 @@ Also, I've been searching for weeks for a mid-range DSLR camera. After reading d
 
 **Link to work done:** None today.
 
+<hr>
+
+**Days 23:** July 3, 2018
+
+**Today's Progress:** Continued the Python tutorial @freecodecamp.org
+
+**Thoughts:** Python's getting very complicated. I'm in a part where it seems I can't get any further without getting lost.  I'm guessing I'll go back to previous topics more frequently. 
+
+In the quizzes @Sololearn would be great if there's an explanation of why any given answer is correct. This is not necesarily obvious in some cases.
+
+**Link to work done:** None today.
+
 
 
 
