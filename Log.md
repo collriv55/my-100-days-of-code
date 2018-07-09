@@ -263,6 +263,46 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 **Link to work done:** None.
 
+<hr>
+
+**Days 25:** July 5, 2018
+
+**Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
+
+**Thoughts:** So much for yesterday's "easiness". Today got stuck in a queue exercise for a couple of hours. Only got through by checking the hint provided. Somehow it didn't fit the order of topics provided.
+
+**Link to work done:** None.
+
+<hr>
+
+**Days 26:** July 6, 2018
+
+**Today's Progress:** Read article from co-founder of Udacity, on their take and experience on React Native.
+
+**Thoughts:** No code today. AFter reading the article mentioned, got busy with my new Pentax K-3 II, which arrived today. Searched for weeks for a good mid-range camera. Finally decided for this model.
+
+**Link to work done:** None.
+
+<hr>
+
+**Days 27:** July 7, 2018
+
+**Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
+
+**Thoughts:** Advanced a good portion. But one of the tests did't run at all. Neither on my Chromebook, nor on my Android. After posting the issue in the forum, someone advised of an extra curly bracket. That did the trick...
+
+**Link to work done:** None.
+
+<hr>
+
+**Days 28:** July 8, 2018
+
+**Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
+
+**Thoughts:** Interesting... I went back to the basic 5-6 challenges on the JS tutorial and everything after went super smooth afterwards. All challenges that followed that last one (previously made), felt easier. Not sure why. I think that the teacher in this case left a good example of what he/she was asking. This is important. Some of the challenges were passed in the first attempt.
+
+**Link to work done:** None.
+
 
 
 
