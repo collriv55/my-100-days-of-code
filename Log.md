@@ -303,6 +303,17 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 **Link to work done:** None.
 
+<hr>
+
+**Days 29:** July 9, 2018
+
+**Today's Progress:** NONE
+**Thoughts:** Reaching the "Counting Cards" exercise, I came into a complete halt. Didn't understand the explanation, nor what the lesson is asking. I peeped into the solution and saw that it included a few things that were shown in the previous chapters. Nonetheless, the way the exercise is presented, doesn't make any sense to me, in relation to the recently learned topics. 
+
+Extremely frustrated at the moment. Considering an exit from JS and/or from coding at all. Also, today I learned the intolerance of syntax gets on the way to learn in a more naturally way. I think.
+
+**Link to work done:** None.
+
 
 
 
