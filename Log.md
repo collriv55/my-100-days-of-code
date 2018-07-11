@@ -314,6 +314,25 @@ Extremely frustrated at the moment. Considering an exit from JS and/or from codi
 
 **Link to work done:** None.
 
+<hr>
+
+**Days 30:** July 10, 2018
+
+**Today's Progress:** Deleted my freecodecamp.org account
+**Thoughts:** I wonder if anyone will ever read this log. I'm a total newbie in Javascript and other coding languages, except for HTML and CSS, though not widely familiar with the recent (last 3-4 years) versions. I do have a minor in education. 
+
+In modern times it's considered that the ultimate goal in education is to develop the social skills that will make a citizen a contributor to society. The ultimate goal of an educator is to facilitate the goal of education. However, as I have seen much too often in the Information Technology field, too many are highly skilled, but poorly educated. Too often have I seen people with exceptional talent in an area of technology, but lacking the human, social depth which enables that talent to be much more than a money maker or a troubleshooter.
+
+When a teacher responds to a student, arguing the classic "you should have", without that student even having met the tool or the information that would have solved X issue, then a great damage is done in the process of learning. There is an absolute lack on cronologic order.
+
+I have learned that coding can be of absolute intolerance. Take syntax, for instance. Miss a symbol and nothing will work. Even worse, in a code teaching organisation, if you miss a symbol and you get 2 different responses, or lack of response, then learning is lost or misled. Worst, if the teacher publicly addresses the student saying he/she should have known, because a tool was provided. The tragedy comes when that tool was provided -- way much later in the tutorial, making it impossible to be guessed at all by any student who is getting in touch with the matter for the first time. 
+
+Ultimately, there is a flaw in the system, but as intolerant as syntax is, a coding teacher may be in denial of this flaw, because he, or she, is highly skilled and estimated in their professional field.
+
+Looking into other providers.
+
+**Link to work done:** None.
+
 
 
 
