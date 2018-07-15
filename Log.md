@@ -333,6 +333,17 @@ Looking into other providers.
 
 **Link to work done:** None.
 
+<hr>
+
+**Days 31:** July 14, 2018
+
+**Today's Progress:** Started ES6 at progate.com
+**Thoughts:** Took a couple of days to search and select another online coding school. Started ES6, but seems to add more complications to JS in terms of syntax. Always the syntax!
+
+Advanced pretty much, but reached an issue in the 2nd chapter. Messaged the team. Waiting for answer.
+
+**Link to work done:** None.
+
 
 
 
