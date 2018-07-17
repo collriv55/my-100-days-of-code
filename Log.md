@@ -344,7 +344,25 @@ Advanced pretty much, but reached an issue in the 2nd chapter. Messaged the team
 
 **Link to work done:** None.
 
+<hr>
 
+**Days 32:** July 15, 2018
+
+**Today's Progress:** ES6 at progate.com; SQL at progate.com
+**Thoughts:** Well... There's always a hurdle. Reached a point in ES6 at progate where I can't go further unless I get a membership for $19.99/month. Not sure I want to do that. Other sites are lexx expensive although Progate seems a better finished product. Found a couple of bugs within the tests mechanism. Solve them by resetting the test.
+
+Started SQL in the meantime.
+
+**Link to work done:** None.
+
+<hr>
+
+**Days 33:** July 16, 2018
+
+**Today's Progress:** SQL at progate.com
+**Thoughts:** Started SQL, to get familiar with it, though I've always used PhpMyAdmin. SQL is kinda boring, but easier to learn. Will go as far as the free course allows.
+
+**Link to work done:** None.
 
 
 
