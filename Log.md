@@ -308,6 +308,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 **Days 29:** July 9, 2018
 
 **Today's Progress:** NONE
+
 **Thoughts:** Reaching the "Counting Cards" exercise, I came into a complete halt. Didn't understand the explanation, nor what the lesson is asking. I peeped into the solution and saw that it included a few things that were shown in the previous chapters. Nonetheless, the way the exercise is presented, doesn't make any sense to me, in relation to the recently learned topics. 
 
 Extremely frustrated at the moment. Considering an exit from JS and/or from coding at all. Also, today I learned the intolerance of syntax gets on the way to learn in a more naturally way. I think.
@@ -319,6 +320,7 @@ Extremely frustrated at the moment. Considering an exit from JS and/or from codi
 **Days 30:** July 10, 2018
 
 **Today's Progress:** Deleted my freecodecamp.org account
+
 **Thoughts:** I wonder if anyone will ever read this log. I'm a total newbie in Javascript and other coding languages, except for HTML and CSS, though not widely familiar with the recent (last 3-4 years) versions. I do have a minor in education. 
 
 In modern times it's considered that the ultimate goal in education is to develop the social skills that will make a citizen a contributor to society. The ultimate goal of an educator is to facilitate the goal of education. However, as I have seen much too often in the Information Technology field, too many are highly skilled, but poorly educated. Too often have I seen people with exceptional talent in an area of technology, but lacking the human, social depth which enables that talent to be much more than a money maker or a troubleshooter.
@@ -338,6 +340,7 @@ Looking into other providers.
 **Days 31:** July 14, 2018
 
 **Today's Progress:** Started ES6 at progate.com
+
 **Thoughts:** Took a couple of days to search and select another online coding school. Started ES6, but seems to add more complications to JS in terms of syntax. Always the syntax!
 
 Advanced pretty much, but reached an issue in the 2nd chapter. Messaged the team. Waiting for answer.
@@ -349,6 +352,7 @@ Advanced pretty much, but reached an issue in the 2nd chapter. Messaged the team
 **Days 32:** July 15, 2018
 
 **Today's Progress:** ES6 at progate.com; SQL at progate.com
+
 **Thoughts:** Well... There's always a hurdle. Reached a point in ES6 at progate where I can't go further unless I get a membership for $19.99/month. Not sure I want to do that. Other sites are lexx expensive although Progate seems a better finished product. Found a couple of bugs within the tests mechanism. Solve them by resetting the test.
 
 Started SQL in the meantime.
@@ -360,6 +364,7 @@ Started SQL in the meantime.
 **Days 33:** July 16, 2018
 
 **Today's Progress:** SQL at progate.com
+
 **Thoughts:** Started SQL, to get familiar with it, though I've always used PhpMyAdmin. SQL is kinda boring, but easier to learn. Will go as far as the free course allows.
 
 **Link to work done:** None.
