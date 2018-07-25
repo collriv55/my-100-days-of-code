@@ -211,7 +211,7 @@ Edit: Was too curious about JS @freecodecamp.org. So started the first 4-5 lesso
 
 <hr>
 
-**Days 20:** June 29, 2018
+**Day 20:** June 29, 2018
 
 **Today's Progress:** Continued the Javascript tutorial @freecodecamp.org
 
@@ -221,7 +221,7 @@ Edit: Was too curious about JS @freecodecamp.org. So started the first 4-5 lesso
 
 <hr>
 
-**Days 21:** June 30, 2018
+**Day 21:** June 30, 2018
 
 **Today's Progress:** Continued the Javascript and Python tutorial @freecodecamp.org
 
@@ -231,7 +231,7 @@ Edit: Was too curious about JS @freecodecamp.org. So started the first 4-5 lesso
 
 <hr>
 
-**Days 22:** July 2, 2018
+**Day 22:** July 2, 2018
 
 **Today's Progress:** Continued the Python tutorial @freecodecamp.org
 
@@ -255,7 +255,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 <hr>
 
-**Days 24:** July 4, 2018
+**Day 24:** July 4, 2018
 
 **Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
 
@@ -265,7 +265,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 <hr>
 
-**Days 25:** July 5, 2018
+**Day 25:** July 5, 2018
 
 **Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
 
@@ -275,7 +275,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 <hr>
 
-**Days 26:** July 6, 2018
+**Day 26:** July 6, 2018
 
 **Today's Progress:** Read article from co-founder of Udacity, on their take and experience on React Native.
 
@@ -285,7 +285,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 <hr>
 
-**Days 27:** July 7, 2018
+**Day 27:** July 7, 2018
 
 **Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
 
@@ -295,7 +295,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 <hr>
 
-**Days 28:** July 8, 2018
+**Day 28:** July 8, 2018
 
 **Today's Progress:** Continued the Basic Javascript tutorial @freecodecamp.org
 
@@ -305,7 +305,7 @@ In the quizzes @Sololearn would be great if there's an explanation of why any gi
 
 <hr>
 
-**Days 29:** July 9, 2018
+**Day 29:** July 9, 2018
 
 **Today's Progress:** NONE
 
@@ -317,7 +317,7 @@ Extremely frustrated at the moment. Considering an exit from JS and/or from codi
 
 <hr>
 
-**Days 30:** July 10, 2018
+**Day 30:** July 10, 2018
 
 **Today's Progress:** Deleted my freecodecamp.org account
 
@@ -337,7 +337,7 @@ Looking into other providers.
 
 <hr>
 
-**Days 31:** July 14, 2018
+**Day 31:** July 14, 2018
 
 **Today's Progress:** Started ES6 at progate.com
 
@@ -349,7 +349,7 @@ Advanced pretty much, but reached an issue in the 2nd chapter. Messaged the team
 
 <hr>
 
-**Days 32:** July 15, 2018
+**Day 32:** July 15, 2018
 
 **Today's Progress:** ES6 at progate.com; SQL at progate.com
 
@@ -361,11 +361,23 @@ Started SQL in the meantime.
 
 <hr>
 
-**Days 33:** July 16, 2018
+**Day 33:** July 16, 2018
 
 **Today's Progress:** SQL at progate.com
 
 **Thoughts:** Started SQL, to get familiar with it, though I've always used PhpMyAdmin. SQL is kinda boring, but easier to learn. Will go as far as the free course allows.
+
+**Link to work done:** None.
+
+<hr>
+
+**Day 34:** July 16, 2018
+
+**Today's Progress:** Coming back from misfortunes
+
+**Thoughts:** My backpack, with my Chromebook and the papers to renew my passport (with my expired passport), was stolen from my car. Incredibly enough, the woman to stole it, contacted me saying that I had dropped my backpack into her laundry basket. I doubt that very much because I helped her carry that same basket and I would have noticed the backpack on top of the clothing. Anyway, nothing was missing, but was a big setback in this project. Especially psychologically.
+
+I started to work on my gallery site at www.theother.click. Still not sure if I'll go entirely with code I make (html, css, etc.) or installing Wordpress and customizing a theme.
 
 **Link to work done:** None.
 
